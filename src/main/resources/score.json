@@ -1,0 +1,30 @@
+[
+  {
+    "id": "1001",
+    "name": "张三",
+    "gender": "男",
+    "total": 279.0,
+    "average": 93.0
+  },
+  {
+    "id": "1002",
+    "name": "李四",
+    "gender": "男",
+    "total": 98.0,
+    "average": 98.0
+  },
+  {
+    "id": "1003",
+    "name": "王五",
+    "gender": "女",
+    "total": 175.0,
+    "average": 87.5
+  },
+  {
+    "id": "1004",
+    "name": "赵六",
+    "gender": "女",
+    "total": 82.0,
+    "average": 82.0
+  }
+]
